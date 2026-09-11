@@ -1,0 +1,105 @@
+{
+  "source": "Original example taxonomy",
+  "relationshipStatus": "No real brands or product ownership claims.",
+  "brands": [],
+  "categories": [
+    {
+      "id": "15",
+      "name": "美妆与护理",
+      "label": [
+        "美妆与护理",
+        "Beauty & care"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "儿童玩具",
+      "label": [
+        "儿童玩具",
+        "Toys & play"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "派对与庆典",
+      "label": [
+        "派对与庆典",
+        "Party & celebration"
+      ]
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "040",
+      "name": "鎏光唇色",
+      "label": [
+        "鎏光唇色",
+        "Lustre lip color"
+      ],
+      "parent": "15"
+    },
+    {
+      "id": "308",
+      "name": "澄蓝护理瓶",
+      "label": [
+        "澄蓝护理瓶",
+        "Blue ritual vessel"
+      ],
+      "parent": "15"
+    },
+    {
+      "id": "024",
+      "name": "映光色盘",
+      "label": [
+        "映光色盘",
+        "Color compact"
+      ],
+      "parent": "15"
+    },
+    {
+      "id": "266",
+      "name": "层叠彩环",
+      "label": [
+        "层叠彩环",
+        "Stacking colors"
+      ],
+      "parent": "13"
+    },
+    {
+      "id": "190",
+      "name": "节奏小沙锤",
+      "label": [
+        "节奏小沙锤",
+        "Little rhythm"
+      ],
+      "parent": "13"
+    },
+    {
+      "id": "295",
+      "name": "几何拼合",
+      "label": [
+        "几何拼合",
+        "Shape together"
+      ],
+      "parent": "13"
+    },
+    {
+      "id": "016",
+      "name": "轻盈庆典",
+      "label": [
+        "轻盈庆典",
+        "Floating celebration"
+      ],
+      "parent": "06"
+    },
+    {
+      "id": "198",
+      "name": "缎带礼遇",
+      "label": [
+        "缎带礼遇",
+        "Ribbon moment"
+      ],
+      "parent": "06"
+    }
+  ]
+}

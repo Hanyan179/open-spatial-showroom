@@ -1,0 +1,34 @@
+/* The existing tour state owns presentation; there is no second idle timer. */
+.showroom[data-auto="true"] .world-identity { gap: 0; }
+.showroom[data-auto="true"] .flight-caption { display: none; }
+
+/* A small visual marker inside an unchanged, large touch target. */
+.showroom[data-auto="true"] .scene-pin {
+  width: var(--touch);
+  height: var(--touch);
+  justify-content: center;
+  gap: 0;
+  border-radius: 50%;
+  touch-action: manipulation;
+}
+.showroom[data-auto="true"] .pin-dot {
+  width: clamp(12px, .64vw, 22px);
+  height: clamp(12px, .64vw, 22px);
+  background: #fff8e9;
+  border: 1px solid #8e734f9c;
+  box-shadow: 0 0 0 7px #fff6e830, 0 0 16px #fff8e965;
+  animation: tour-beacon 3.6s ease-in-out infinite;
+}
+.showroom[data-auto="true"] .pin-dot svg,
+.showroom[data-auto="true"] .pin-label { display: none; }
+.showroom[data-auto="true"] .scene-pin:hover .pin-dot,
+.showroom[data-auto="true"] .scene-pin:focus-visible .pin-dot {
+  transform: scale(1.15);
+  box-shadow: 0 0 0 9px #fff6e85c, 0 0 22px #fff8e9a0;
+}
+@keyframes tour-beacon {
+  50% { box-shadow: 0 0 0 10px #fff6e814, 0 0 22px #fff8e930; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .showroom[data-auto="true"] .pin-dot { animation: none; }
+}

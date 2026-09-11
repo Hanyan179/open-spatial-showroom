@@ -1,0 +1,44 @@
+{
+  "news": [],
+  "partners": [
+    {
+      "id": "partner-1",
+      "name": {
+        "zh": "合作示例 1",
+        "en": "Example partner 1"
+      },
+      "description": {
+        "zh": "可替换的占位展示，不代表真实合作关系。",
+        "en": "Editable placeholder; not a real partnership."
+      },
+      "legalName": "",
+      "logo": null
+    },
+    {
+      "id": "partner-2",
+      "name": {
+        "zh": "合作示例 2",
+        "en": "Example partner 2"
+      },
+      "description": {
+        "zh": "可替换的占位展示，不代表真实合作关系。",
+        "en": "Editable placeholder; not a real partnership."
+      },
+      "legalName": "",
+      "logo": null
+    },
+    {
+      "id": "partner-3",
+      "name": {
+        "zh": "合作示例 3",
+        "en": "Example partner 3"
+      },
+      "description": {
+        "zh": "可替换的占位展示，不代表真实合作关系。",
+        "en": "Editable placeholder; not a real partnership."
+      },
+      "legalName": "",
+      "logo": null
+    }
+  ]
+}

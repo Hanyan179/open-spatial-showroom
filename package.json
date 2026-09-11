@@ -1,0 +1,32 @@
+{
+  "name": "open-spatial-showroom",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run check:architecture && vite build",
+    "preview": "vite preview",
+    "build:scenes": "node scripts/export-scenes.mjs",
+    "build:explorer": "vite build --config vendor/explorer/vite.config.mjs",
+    "build:media": "node scripts/create-demo-media.mjs",
+    "build:all": "npm run build:media && npm run build:scenes && npm run build:explorer && npm run build",
+    "test": "node --test tests/*.test.mjs",
+    "check:architecture": "node scripts/check-architecture.mjs",
+    "check:public": "node scripts/check-public.mjs",
+    "prepare:demo": "npm run build:media && npm run build:scenes && npm run build:explorer"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
+    "@vitejs/plugin-react": "5.0.4",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "three": "^0.180.0",
+    "vite": "6.4.3"
+  },
+  "description": "A configurable, unbranded 3D showroom with guided tours and interactive product exhibits.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

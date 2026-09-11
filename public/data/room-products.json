@@ -1,0 +1,529 @@
+{
+  "version": 1,
+  "example": true,
+  "products": [
+    {
+      "id": "beauty-lip-balm",
+      "domain": "beauty",
+      "point": "lipstick",
+      "category": "Lip Repair",
+      "title": {
+        "zh": "唇部护理示例",
+        "en": "Lip care sample"
+      },
+      "sku": "DEMO-001",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-lip-balm.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "beauty-bath-star",
+      "domain": "beauty",
+      "point": "serum",
+      "category": "Bath Bomb",
+      "title": {
+        "zh": "星形沐浴示例",
+        "en": "Star bath sample"
+      },
+      "sku": "DEMO-002",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-bath-star.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "beauty-nail-stickers",
+      "domain": "beauty",
+      "point": "compact",
+      "category": "Nail Sticker",
+      "title": {
+        "zh": "美甲贴示例",
+        "en": "Nail art sample"
+      },
+      "sku": "DEMO-003",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-nail-stickers.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-colour-magnets",
+      "domain": "play",
+      "point": "rings",
+      "category": "Card&Board Games",
+      "title": {
+        "zh": "颜色分类示例",
+        "en": "Colour sorting sample"
+      },
+      "sku": "DEMO-004",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-colour-magnets.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-compounds",
+      "domain": "play",
+      "point": "maraca",
+      "category": "Toy Kit",
+      "title": {
+        "zh": "造型材料示例",
+        "en": "Modelling material sample"
+      },
+      "sku": "DEMO-005",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-compounds.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-telescope",
+      "domain": "play",
+      "point": "puzzle",
+      "category": "Indoor & Outdoor Play",
+      "title": {
+        "zh": "观察镜示例",
+        "en": "Telescope sample"
+      },
+      "sku": "DEMO-006",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-telescope.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-number-balloon",
+      "domain": "party",
+      "point": "balloon",
+      "category": "Balloons",
+      "title": {
+        "zh": "数字气球示例",
+        "en": "Number balloon sample"
+      },
+      "sku": "DEMO-007",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-number-balloon.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-blowouts",
+      "domain": "party",
+      "point": "gift",
+      "category": "Party Decor/Favors",
+      "title": {
+        "zh": "派对吹龙示例",
+        "en": "Party blower sample"
+      },
+      "sku": "DEMO-008",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-blowouts.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-smile-candles",
+      "domain": "party",
+      "point": "collection",
+      "category": "Candle - Party",
+      "title": {
+        "zh": "造型蜡烛示例",
+        "en": "Shaped candle sample"
+      },
+      "sku": "DEMO-009",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-smile-candles.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "beauty-brush",
+      "domain": "beauty",
+      "point": "brushes",
+      "category": "Cosmetic Brushes",
+      "title": {
+        "zh": "化妆刷示例",
+        "en": "Brush sample"
+      },
+      "sku": "DEMO-010",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-brush.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "beauty-sponge",
+      "domain": "beauty",
+      "point": "sponges",
+      "category": "Sponges - Cosmetic",
+      "title": {
+        "zh": "美妆海绵示例",
+        "en": "Sponge sample"
+      },
+      "sku": "DEMO-011",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-sponge.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-australia-puzzle",
+      "domain": "play",
+      "point": "puzzles",
+      "category": "Puzzles",
+      "title": {
+        "zh": "地图拼图示例",
+        "en": "Map puzzle sample"
+      },
+      "sku": "DEMO-012",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-australia-puzzle.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-metal-detector",
+      "domain": "play",
+      "point": "science",
+      "category": "STEM Kit",
+      "title": {
+        "zh": "科学探索示例",
+        "en": "Science kit sample"
+      },
+      "sku": "DEMO-013",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-metal-detector.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-cone-cups",
+      "domain": "party",
+      "point": "tableware",
+      "category": "Paper Tableware",
+      "title": {
+        "zh": "纸质餐具示例",
+        "en": "Paper tableware sample"
+      },
+      "sku": "DEMO-014",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-cone-cups.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-napkins",
+      "domain": "party",
+      "point": "napkins",
+      "category": "Paper Napkins",
+      "title": {
+        "zh": "纸巾示例",
+        "en": "Napkin sample"
+      },
+      "sku": "DEMO-015",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-napkins.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "beauty-mini-bath",
+      "domain": "beauty",
+      "point": "serum",
+      "category": "Bath Bomb",
+      "title": {
+        "zh": "迷你沐浴示例",
+        "en": "Mini bath sample"
+      },
+      "sku": "DEMO-016",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/beauty-mini-bath.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "play-monsters",
+      "domain": "play",
+      "point": "maraca",
+      "category": "Construction Clay",
+      "title": {
+        "zh": "拼搭玩具示例",
+        "en": "Construction toy sample"
+      },
+      "sku": "DEMO-017",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/play-monsters.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    },
+    {
+      "id": "party-ombre-candles",
+      "domain": "party",
+      "point": "collection",
+      "category": "Candle - Party",
+      "title": {
+        "zh": "渐变蜡烛示例",
+        "en": "Gradient candle sample"
+      },
+      "sku": "DEMO-018",
+      "sourceName": "",
+      "sourceUrl": null,
+      "brand": null,
+      "image": "/media/examples/party-ombre-candles.svg",
+      "imageKind": {
+        "zh": "原创示意图",
+        "en": "Original illustration"
+      },
+      "modelKind": "original-scene-interpretation",
+      "description": {
+        "zh": "通用展品示例，用于演示分类浏览与图片详情。可在数据文件中替换。",
+        "en": "A generic exhibit demonstrating category browsing and image detail. Replace it in the content feed."
+      },
+      "sceneNote": {
+        "zh": "三维陈列与示意图均为概念，不代表商品规格。",
+        "en": "The 3D display and illustration are concepts, not product specifications."
+      },
+      "concept": true
+    }
+  ],
+  "related": {}
+}

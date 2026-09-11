@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "title": {
+      "zh": "三维交互展厅",
+      "en": "Interactive 3D Showroom"
+    },
+    "welcome": {
+      "zh": "欢迎探索",
+      "en": "WELCOME"
+    },
+    "logoUrl": null
+  },
+  "content": {
+    "companyUrl": "/data/company.json",
+    "resourcesUrl": "/data/resources.json",
+    "lifeUrl": "/data/company-life.json",
+    "roomProductsUrl": "/data/room-products.json"
+  },
+  "requests": {
+    "timeoutMs": 12000,
+    "credentials": "same-origin"
+  },
+  "external": {
+    "productHome": null,
+    "productCategories": {
+      "beauty": null,
+      "play": null,
+      "party": null
+    }
+  }
+}

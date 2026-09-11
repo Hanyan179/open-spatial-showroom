@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "units": "metres",
+  "concept": true,
+  "floors": [
+    {
+      "id": "company",
+      "number": 1,
+      "name": [
+        "公司大厅",
+        "Company & welcome"
+      ]
+    },
+    {
+      "id": "products",
+      "number": 2,
+      "name": [
+        "产品与样品",
+        "Products & collections"
+      ]
+    },
+    {
+      "id": "global",
+      "number": 3,
+      "name": [
+        "战略与全球",
+        "Strategy & global connections"
+      ]
+    },
+    {
+      "id": "data",
+      "number": 4,
+      "name": [
+        "数据分析",
+        "Data studio"
+      ],
+      "enabled": false
+    }
+  ],
+  "scenes": [
+    {
+      "id": "lobby",
+      "file": "lobby.glb",
+      "bytes": 10502600,
+      "materialBatches": 140
+    },
+    {
+      "id": "samples",
+      "file": "samples.glb",
+      "bytes": 7197136,
+      "materialBatches": 95
+    },
+    {
+      "id": "beauty",
+      "file": "beauty.glb",
+      "bytes": 10112852,
+      "materialBatches": 101
+    },
+    {
+      "id": "play",
+      "file": "play.glb",
+      "bytes": 8726764,
+      "materialBatches": 124
+    },
+    {
+      "id": "party",
+      "file": "party.glb",
+      "bytes": 9089744,
+      "materialBatches": 123
+    },
+    {
+      "id": "office",
+      "file": "office.glb",
+      "bytes": 4125308,
+      "materialBatches": 17
+    },
+    {
+      "id": "china",
+      "file": "china.glb",
+      "bytes": 7233368,
+      "materialBatches": 118
+    },
+    {
+      "id": "usa",
+      "file": "usa.glb",
+      "bytes": 5700504,
+      "materialBatches": 102
+    },
+    {
+      "id": "cambodia",
+      "file": "cambodia.glb",
+      "bytes": 9520564,
+      "materialBatches": 143
+    }
+  ]
+}

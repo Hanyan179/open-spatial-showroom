@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "example": true,
+  "name": {
+    "zh": "三维交互展厅",
+    "en": "Interactive 3D Showroom"
+  },
+  "headline": {
+    "zh": "让内容，成为可以探索的空间。",
+    "en": "Turn content into a place to explore."
+  },
+  "description": {
+    "zh": "这是一套可维护的三维展厅模板。你可以替换组织介绍、产品、照片、视频和新闻，也可以继续扩建房间。所有默认内容均为演示示例。",
+    "en": "This configurable 3D showroom template connects spaces with products, stories and media. Replace the sample content or build additional rooms. All bundled content is demonstrative."
+  },
+  "history": [
+    {
+      "year": 2020,
+      "summary": {
+        "zh": "示例：项目起点",
+        "en": "Example: project begins"
+      }
+    },
+    {
+      "year": 2021,
+      "summary": {
+        "zh": "示例：设计探索",
+        "en": "Example: design exploration"
+      }
+    },
+    {
+      "year": 2022,
+      "summary": {
+        "zh": "示例：样品开发",
+        "en": "Example: sample development"
+      }
+    },
+    {
+      "year": 2023,
+      "summary": {
+        "zh": "示例：协作扩展",
+        "en": "Example: collaboration grows"
+      }
+    },
+    {
+      "year": 2024,
+      "summary": {
+        "zh": "示例：交付体系",
+        "en": "Example: delivery process"
+      }
+    },
+    {
+      "year": 2025,
+      "summary": {
+        "zh": "示例：新的篇章",
+        "en": "Example: a new chapter"
+      }
+    }
+  ],
+  "capabilities": [
+    {
+      "id": "design",
+      "title": {
+        "zh": "创意与设计",
+        "en": "Ideas & design"
+      },
+      "description": {
+        "zh": "演示从研究、草图到模型的开发过程。",
+        "en": "An illustrative path from research and sketches to models."
+      }
+    },
+    {
+      "id": "product",
+      "title": {
+        "zh": "产品与样品",
+        "en": "Products & samples"
+      },
+      "description": {
+        "zh": "用分类、图片、模型与详情介绍产品。",
+        "en": "Explore products through categories, images, models and details."
+      }
+    },
+    {
+      "id": "delivery",
+      "title": {
+        "zh": "制造与交付",
+        "en": "Making & delivery"
+      },
+      "description": {
+        "zh": "展示工序、检查、包装和交付的概念流程。",
+        "en": "An illustrative sequence of production, inspection, packaging and delivery."
+      }
+    }
+  ],
+  "culture": [
+    {
+      "title": {
+        "zh": "探索",
+        "en": "Explore"
+      },
+      "description": {
+        "zh": "保持好奇，用内容连接每个空间。",
+        "en": "Connect spaces through curiosity and content."
+      }
+    },
+    {
+      "title": {
+        "zh": "协作",
+        "en": "Collaborate"
+      },
+      "description": {
+        "zh": "让不同环节的信息清晰可见。",
+        "en": "Make information visible across stages."
+      }
+    }
+  ],
+  "company_groups": [],
+  "brands": [],
+  "cases": [],
+  "honors": []
+}
