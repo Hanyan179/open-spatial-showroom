@@ -89,6 +89,9 @@ npm run preview
 - [内容维护](docs/CONTENT.md)
 - [开发助手规则](AGENTS.md)
 - [贡献说明](CONTRIBUTING.md)
+- [社区行为准则](CODE_OF_CONDUCT.md)
+- [安全报告与部署边界](SECURITY.md)
+- [当前维护与审核范围](docs/MAINTENANCE.md)
 - [验证记录](docs/VALIDATION.md)
 - [第三方素材与依赖](THIRD_PARTY_NOTICES.md)
 
